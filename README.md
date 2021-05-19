@@ -6,6 +6,8 @@
 
 ### Standalone Service
 
+- [Qdrant -  Vector Similarity Search Engine with extended filtering support](https://github.com/qdrant/qdrant)
+- [Pinecone - Similarity Search as a Service](https://www.pinecone.io)
 - [Vald - A Highly Scalable Distributed Vector Search Engine](https://github.com/vdaas/vald)
 - [Milvus - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy](https://github.com/milvus-io/milvus)
 - [Weaviate is a cloud-native, real-time vector search engine](https://github.com/semi-technologies/weaviate)
@@ -30,6 +32,7 @@
 - [SPTAG - A distributed approximate nearest neighborhood search (ANN) library ](https://github.com/microsoft/SPTAG)
 - [PyNNDescent - A python nearest neighbor descent for approximate k nearest neighbors](https://github.com/lmcinnes/pynndescent)
 - [TarsosLSH - A Java library implementing practical nearest neighbour search algorithm for multidimensional vectors ](https://github.com/JorenSix/TarsosLSH)
+- [TorchPQ - Efficient implementations of Product Quantization and its variants using Pytorch and CUDA](https://github.com/DeMoriarty/TorchPQ)
 
 ### Cloud Service
 
